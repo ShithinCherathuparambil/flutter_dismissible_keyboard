@@ -4,7 +4,7 @@ A lightweight, pure Dart Flutter package that provides a `DismissibleKeyboard` w
 
 It perfectly mimics the standard system keyboard's sliding up and sliding down behavior.
 
-![Dismissible Keyboard Example](assets/keyboard_example.png)
+![Dismissible Keyboard Example](https://raw.githubusercontent.com/ShithinCherathuparambil/flutter_dismissible_keyboard/main/assets/keyboard_example.png)
 
 ## Features
 

@@ -4,8 +4,8 @@ screenshots:
   - description: 'Example of the dismissible custom keyboard in action'
     path: assets/keyboard_example.png
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/ShithinCherathuparambil/flutter_dismissible_keyboard
+repository: https://github.com/ShithinCherathuparambil/flutter_dismissible_keyboard
 environment:
   sdk: ^3.10.8
   flutter: '>=3.3.0'
